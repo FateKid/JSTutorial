@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-  <p align="center">
+  <p align="left">
     This is a practice repository. The content was created while following the
     <br />
     (https://youtu.be/W6NZfCO5SIk-Y?t=35s "JavaScript Tutorial for Beginners")
