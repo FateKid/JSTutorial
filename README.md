@@ -13,7 +13,6 @@
   <p align="center">
     This is a practice repository. The content was created while following the
     <br />
-    [![Everything Is AWESOME](https://img.youtube.com/vi/W6NZfCO5SIk/0.jpg)]
     (https://youtu.be/W6NZfCO5SIk-Y?t=35s "JavaScript Tutorial for Beginners")
     <br />
     <br />
