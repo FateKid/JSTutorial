@@ -8,12 +8,12 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-  <h3 align="center">JSTutorial Project (Practice)</h3>
+  <h3 align="left">JSTutorial Project (Practice)</h3>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-  <p align="left">
+  <p align="center">
     This is a practice repository. The content was created while following the
     <br />
     (https://youtu.be/W6NZfCO5SIk-Y?t=35s "JavaScript Tutorial for Beginners")
