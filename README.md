@@ -11,10 +11,11 @@
   <h3 align="center">JSTutorial Project (Practice)</h3>
 
   <p align="center">
-    This is a practice repository. The content was created while following the<br />
-    [![JavaScript Tutorial for Beginners](https://img.youtube.com/vi/W6NZfCO5SIk/0.jpg)](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+    This is a practice repository. The content was created while following the
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    [![JavaScript Tutorial for Beginners](https://img.youtube.com/vi/W6NZfCO5SIk/0.jpg)]
+    (https://www.youtube.com/watch?v=W6NZfCO5SIk)
+    <br />
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
